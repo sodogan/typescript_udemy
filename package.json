@@ -1,0 +1,26 @@
+{
+  "name": "typescript_udemy",
+  "version": "1.0.0",
+  "description": "typescript udemy course",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodogan/typescript_udemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodogan/typescript_udemy/issues"
+  },
+  "homepage": "https://github.com/sodogan/typescript_udemy#readme",
+  "scripts": {
+    "start": "npm run lite",
+    "lite":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+
+  }
+}
